@@ -1,18 +1,18 @@
 # The Silksong Speedrunning Mega Thread
 
-A compendium of speedrunning explanations for Silksong speedrunning. Containing routes, skips, tricks, tech, glitches and more.
+A compendium of speedrunning explanations for Silksong speedrunning. Containing routes, skips, tricks, tech, glitches, and more.
 
-To see a repo of resources relevant for setting up speedrunning *tools*, such as livesplit, debug menu, and more see - [The Silksong Speedrunning Resources](https://github.com/hk-speedrunning/Silksong-Resources/blob/main/README.md)
+To see a repo of resources relevant for setting up speedrunning *tools*, such as Livesplit, debug menu, and more, see - [The Silksong Speedrunning Resources](https://github.com/hk-speedrunning/Silksong-Resources/blob/main/README.md)
 
 ---
 > [!IMPORTANT]  
 > The Mega thread is currently under construction and will take a WHILE to complete. Any and all help is appreciated, feel free to leave any *small* corrections in the issues tab.<br>
-> If you'd like to contribute, I'm still figuring out the best way of making that accessible, but hopefully soon I'll figure that out lmao. For now I'll be visiting each category and asking for help when needed. I am only one person, and can only read and edit so much. Thanks for your understanding.
+> If you'd like to contribute, I'm still figuring out the best way to make that accessible, but hopefully I'll figure it out soon lmao. For now, I'll be visiting each category and asking for help when needed. I am only one person, and can only read and edit so much. Thanks for your understanding.
 
 # [Glossary](/Glossary.md)
 
 > [!TIP]  
-> By using CTRL+F in the Glossary (Or on any page for that matter) you can search for explanations of key terms, find, and use relevant links.
+> By using CTRL+F in the Glossary (Or on any page for that matter), you can search for explanations of key terms, find, and use relevant links.
 
 ## Routes
 
