@@ -32,9 +32,9 @@ These runs go through the mist saving time from better routing not having to col
 >[Fleas route splits](https://hksplitmaker.com/?game=silksong&builtin=any-fleas)  
 >[Flea route notes](https://docs.google.com/document/d/1yA3h72XDO3627Hs_8m6ag0cZPAH8-7jlGK4Xkduuskc/edit?tab=t.0#heading=h.3hhwjgh3sfaf)  
 >[Flea route video guide](https://www.youtube.com/playlist?list=PLnd-PMBTsX4ZrfOZDpup2Gg7OyH96dq-S)
-
+  
 > [!NOTE]  
-> Technically you can do a cloakless run on later patches by using the reaper crest pogo. However it is slow to collect reapers crest.
+> Technically you can do a cloakless run on later patches by using the reaper crest pogo or multiple glitches. However it is slow to collect reapers crest, and naturally glitched runs make use of more than enough tech never worrying about cloak.
  
 ---
 
@@ -47,8 +47,8 @@ These runs go through the mist saving time from better routing not having to col
 > [Bell route notes](https://docs.google.com/document/d/1OwFO5OSDMIZWn24Jm6f14QtfF7145Aom5T-exSffINI/edit?tab=t.gxdxsxf2j77q#heading=h.umnydksznp6v)  
 > [Bell route video guide](https://www.youtube.com/playlist?list=PL4aX24rbBNH3ccDaEfLqfxIVlGoH53Ukz)  
 
-> ![NOTE]
-> The bell route is currently most optimal on patch **1.0.29242** in order to use of the nail upgrade cutscene skip, while still taking advantage of Lace 2's broken hitboxes during her fight. 
+>[!NOTE]  
+> The bell route is currently most optimal on patch **1.0.29242** in order to make use of the nail upgrade cutscene skip, while still taking advantage of Lace 2's broken hitboxes during her fight.
 
 ### Mist route (with cloak)
 - This was the original any% route when speedrunning first started; Multiple routes could be considered "The Mist route" as they go through Sinners Road for The Mist, and fights Phantom to enter act 2. Specifically a mist route with cloak, is slower than bells and has the difficulty of The Mist itself, which can be quite punishing and can lead to random time loss, but doesn't have any difficult skips. Picking up and using Barbed Bracelet is *potentially* faster for mist route, but is even more punishing, and is still estimated to be slower than bell route. This route is good however if you don't like doing the bells route skips, you particularly like The Mist/Phantom, or want to practice for a cloakless run.

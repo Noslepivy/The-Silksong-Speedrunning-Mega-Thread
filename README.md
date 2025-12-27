@@ -7,12 +7,12 @@ To see a repo of resources relevant for setting up speedrunning *tools*, such as
 ---
 > [!IMPORTANT]  
 > The Mega thread is currently under construction and will take a WHILE to complete. Any and all help is appreciated, feel free to leave any *small* corrections in the issues tab.<br>
-> If you'd like to contribute, I'm still figuring out the best way of making that accessible, but hopefully soon I'll figure that out lmao. For now I'll ve visiting each category and asking for help when needed. I am only one person, and can only read and edit so much. Thanks for your understanding.
+> If you'd like to contribute, I'm still figuring out the best way of making that accessible, but hopefully soon I'll figure that out lmao. For now I'll be visiting each category and asking for help when needed. I am only one person, and can only read and edit so much. Thanks for your understanding.
 
 # [Glossary](/Glossary.md)
 
 > [!TIP]  
-> By using CTRL+F in the Glossary you can search for explanations of key terms, then find and use relevant links.
+> By using CTRL+F in the Glossary (Or on any page for that matter) you can search for explanations of key terms, find, and use relevant links.
 
 ## Routes
 
@@ -44,7 +44,7 @@ To see a repo of resources relevant for setting up speedrunning *tools*, such as
 
 ## Movement
 
-### [General movement](/Movement/GeneralMovement.md)
+### [General movement](/Movement/GeneralMovement.md) <img src="https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Icons/Tool/Silkspeed-Anklets.png" height=16>
 
 ### [Specific room movement](/Movement/SRMovement.md)
 
@@ -52,7 +52,7 @@ To see a repo of resources relevant for setting up speedrunning *tools*, such as
 
 ### [Combat tech](/Tech/CombatTech.md)
 
-### [Movement tech](/Tech/MovementTech.md)
+### [Movement tech](/Tech/MovementTech.md) 
 
 ### [Miscellaneous tech](/Tech/MiscTech.md)
 
