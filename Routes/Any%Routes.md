@@ -1,6 +1,7 @@
 # Any % Routes
 
-A collection of the Any % Routes, with an explanation of their differences, and links to their splits and full notes.
+A collection of the Any % Routes, with an explanation of their differences, and links to their splits and full notes.  
+You may notice on [SRC](https://www.speedrun.com/silksong) the leaderboard is split between release patch and later patches. This was due to the fact that cloakless run can be performed on release patch giving a LARGE time save compared to cloakful runs; and so to keep the cloakful runs relevant, and still allow people to run them (such as console players that physically cannot downpatch) a split in the leaderboard was formed.
 
 - ### [Any% NMG](#any-no-major-glitches) (in order of fastest to slowest)
     - [RP Key route](#key-route)
@@ -20,7 +21,7 @@ Cloakless runs are faster than the cloak routes below, but require running on **
 These runs go through the mist, saving time from better routing, not having to collect bells, skipping Drifter's cloak, and skipping certain bosses.  
 
 ### Key route
-- Key route is fastest of all any% NMG routes (~1 minute faster than LP bell route as reference), gets 500 rosaries during the movement to and from bell beast, to buy a simple key in Bone Bottom, then goes through Wormways to get to Shellwood.
+- Key route is fastest of all any% NMG routes (~90-120 seconds faster than LP bell route as reference), gets 500 rosaries during the movement to and from bell beast, to buy a simple key in Bone Bottom, then goes through Wormways to get to Shellwood.
 
 >[Key route splits](https://hksplitmaker.com/?game=silksong&builtin=any-key)  
 >[Key route notes](https://docs.google.com/document/d/e/2PACX-1vSMkElA8vNdvb2wVgxlyFs2wRPl4vgs53CK-6-zWkWGjZMalrqM-IX15c19MYgwlZpuJPm0kyacWqur/pub)  
@@ -43,6 +44,8 @@ These runs go through the mist, saving time from better routing, not having to c
 
 ### Bell Route
 - This is by far the most popular route, due to it being fairly beginner-friendly and a great entry point for speedrunning. Bells gets 5 bells, fights The Last Judge to go through the Grand Gate for Act 2. It's ~20 seconds faster than a cloak mist due to some tricky skips in Blasted Steps, and a craw pogo to Greymoor bell. There are easier alternatives to these skips, however, by doing the slower, easier version, you lose the 20-second time save this route has over a Cloaked Mist. This route without the skips may be the easiest for beginners, and is good practice if you want to add the skips in later.
+- Additionally the bell route may take advantage of the tool [Sawtooth Circlet](https://hollowknight.wiki/w/Sawtooth_Circlet) in order to kill bosses incredibly quickly with [Sawtooth turn-arounds](/Tech/CombatTech.md#sawtooth-turn-arounds)  
+- Notes for the sawtooth route can be found within the discord as it's not the most popular route.
 > [Bell route splits](https://hksplitmaker.com/?game=silksong&builtin=any-bells)  
 > [Bell route notes](https://docs.google.com/document/d/1OwFO5OSDMIZWn24Jm6f14QtfF7145Aom5T-exSffINI/edit?tab=t.gxdxsxf2j77q#heading=h.umnydksznp6v)  
 > [Bell route video guide](https://www.youtube.com/playlist?list=PL4aX24rbBNH3ccDaEfLqfxIVlGoH53Ukz)  
