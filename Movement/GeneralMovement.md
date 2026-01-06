@@ -1,6 +1,9 @@
 # General Movement
 
-A collection of general movement tech useful almost everywhere, used in any category.
+A collection of general movement tech useful almost everywhere, used in any category.  
+
+>[!NOTE]
+>This page has many gifs that need to load, on mobile and low end systems they may not show immediately.
 
 ## Early Game movement
 - [Walking](/Movement/GeneralMovement.md#walking)
@@ -11,6 +14,7 @@ A collection of general movement tech useful almost everywhere, used in any cate
 - [Sprinting / Dashing](/Movement/GeneralMovement.md#sprinting--dashing)
 - [Jump Dashing](/Movement/GeneralMovement.md#jump-dashing)
 - [Pogo Dashing / Dive Dashing / Wave Dashing](/Movement/GeneralMovement.md#pogo-dashing--dive-dashing--wave-dashing)
+- [Pogo / Clawline dashing through enemies](/Movement/GeneralMovement.md#pogo-dashing-through-enemies)
 
 ## Miscellaneous Movement
 - [Dash Attack Dashing](/Movement/GeneralMovement.md#dash-attack-dashing)
@@ -32,7 +36,7 @@ A collection of general movement tech useful almost everywhere, used in any cate
 >### Neutral Pogo's / Pogo NILs / Pogo Lag canceling
 >
 >Further improving on Air pogo's - By pogo-ing **without** a full jump and purposefully hitting the floor, you would usually be temporarily stunned. However, by going neutral (hence the name of this tech) by not inputting any left or right movement when hitting the floor, you remove the stun completely and can move again, to setup for another pogo, go neutral and repeat.  
-Jump > Pogo > Release Movement input (at any point during your pogo) > Repress movement keys after landing > ... Repeat
+Jump > Pogo > Release movement input (at any point during your pogo) > Repress movement input after landing > ... Repeat
 >
 >Take note of the videos below for comparison, with input displays on the bottom right for timing.
 >
@@ -48,12 +52,11 @@ Jump > Pogo > Release Movement input (at any point during your pogo) > Repress m
 >Self explanatory. Get swift step and start running. Faster than walking, faster than neutral pogos, but slower than the movement below.
 
 >### Jump dashing
->The initial boost from using swift step is faster than the rest of swift steps' movement, and so by starting a dash as often as possible, you get more speed than simply holding a dash. We do this by jumping and dashing directly after, so we get the full boost from the dash start, and no slowdown since we're in the air.
+>The initial boost from using swift step is faster than the rest of swift steps' movement, and so by starting a dash as often as possible, you get more speed than simply holding a dash. This works due to the fact an air dash cooldown is refreshed upon touching the floor. So by repeatedly dashing in the air and landing as fast as possible, you can take advantage of constantly refreshing dash, and the initial boost it gives.
 >The timing for this tech can feel awkward due to how tight the window for perfect jump dashing is.  
 >Some people find it to be easier if you simply input jump and dash at the same time, rather than delaying your dash.  
 > Jump > Dash > Jump > Dash > ... Repeat. Or -  
 > Jump + Dash > Jump + Dash > ... Repeat.
->
 >![Jump Dashing](/Gifs/General%20Movement/jump-dashing.gif)
 
 >### Pogo Dashing / Dive dashing / Wave dashing
@@ -67,12 +70,23 @@ Hold Dash > Jump > Release Dash > Pogo > ... Repeat
 >Full Speed -  
 >![Pogo Dashing](/Gifs/General%20Movement/pogo-dashing.gif)
 
+>### Pogo / Clawline Dashing through enemies
+>Additionally when pogo-ing, or using clawline on an enemy, the game gives you some invincibility frames, you can take advantage of this, and travel THROUGH large enemies by dashing just after.  
+>Jump > Pogo > Immediate dash > Continue normal movement
+>![Pogo Through Enemies](/Gifs/General%20Movement/pogo-dash-through.gif)  
+>Or  
+>Clawline > Dash > Continue normal movement
+>![Clawline dash through](/Gifs/General%20Movement/clawline-dash-through.gif)
+
 >### Clawline Pogo Dashing
 >Useful for covering large flat ground areas, but fairly niche in use cases, not often recommended as you want to save your silk for combat, and slow if done incorrectly.
 >Simply adding a Clawline at the end of a pogo dash, and continuing pogo dash as your Clawline ends, is ever so slightly faster than pogo dashing without it.
 >
->Hold Dash > Jump > Release Dash > Pogo > Clawline > Pogo > Dash ... Repeat with a following Clawline if you have silk, or continue to pogo dash regularly.
->
+>When relying on your silk regenerating.  
+>Clawline > Dash > 3 Pogo dashes > ... Repeat
+>![Clawline Regen dashing](/Gifs/General%20Movement/clawline-regen-dash.gif)  
+>Or if you have full silk -  
+>Clawline > Pogo Dash (or just dash depending on preference) ... Repeat with a following Clawline if you have silk, or continue to pogo dash regularly.
 >![Clawling Pogo Dash](/Gifs/General%20Movement/clawline-pogo-dash.gif)
 
 >### Dash Attack Dashing
