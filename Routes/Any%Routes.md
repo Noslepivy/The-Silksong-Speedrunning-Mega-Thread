@@ -20,7 +20,9 @@ There are a few different routes for any% NMG. The Main differences:
 Cloakless runs are faster than the cloak routes below, but require running on **Release Patch (1.0.28324)** In order to take advantage of a particular walljump in the underworks, only available on the release patch.   
 These runs go through the mist, saving time from better routing, not having to collect bells, skipping Drifter's cloak, and skipping certain bosses.  
 
+
 ### Key route
+---
 - Key route is fastest of all any% NMG routes (~90-120 seconds faster than LP bell route as reference), gets 500 rosaries during the movement to and from bell beast, to buy a simple key in Bone Bottom, then goes through Wormways to get to Shellwood.
 
 >[Key route splits](https://hksplitmaker.com/?game=silksong&builtin=any-key)  
@@ -28,6 +30,7 @@ These runs go through the mist, saving time from better routing, not having to c
 > No video guide as of yet, however, watching the top runs on [SRC](https://www.speedrun.com/silksong?h=any-no-major-glitches-release-patch&x=zd39j4nd-ylq4yvzn.qzne828q-rn1kmmvl.10vzvmol) can help a lot with understanding the route.
 
 ### Flea route
+---
 - Flea route is ~~cutest~~ slower than key, but was originally more popular. Collects five fleas and uses the flea caravan to get to Greymoor without cloak. Notably, flea route has to fight Lace while key does not, in order to get a flea located in far fields.
 
 >[Fleas route splits](https://hksplitmaker.com/?game=silksong&builtin=any-fleas)  
@@ -43,6 +46,7 @@ These runs go through the mist, saving time from better routing, not having to c
 
 
 ### Bell Route
+---
 - This is by far the most popular route, due to it being fairly beginner-friendly and a great entry point for speedrunning. Bells gets 5 bells, fights The Last Judge to go through the Grand Gate for Act 2. It's ~20 seconds faster than a cloak mist due to some tricky skips in Blasted Steps, and a craw pogo to Greymoor bell. There are easier alternatives to these skips, however, by doing the slower, easier version, you lose the 20-second time save this route has over a Cloaked Mist. This route without the skips may be the easiest for beginners, and is good practice if you want to add the skips in later.
 - Additionally the bell route may take advantage of the tool [Sawtooth Circlet](https://hollowknight.wiki/w/Sawtooth_Circlet) in order to kill bosses incredibly quickly with [Sawtooth turn-arounds](/Tech/CombatTech.md#sawtooth-turn-arounds)  
 - Notes for the sawtooth route can be found within the discord as it's not the most popular route.
@@ -54,6 +58,7 @@ These runs go through the mist, saving time from better routing, not having to c
 > The bell route is currently most optimal on patch **1.0.29242** in order to make use of the nail upgrade cutscene skip, while still taking advantage of Lace 2's broken hitboxes during her fight.
 
 ### Mist route (with cloak)
+---
 - This was the original any% route when speedrunning first started; Multiple routes could be considered "The Mist route" as they go through Sinners Road for The Mist, and fight Phantom to enter act 2. Specifically, a mist route with cloak is slower than bells and has the difficulty of The Mist itself, which can be quite punishing and can lead to random time loss, but doesn't have any difficult skips. Picking up and using Barbed Bracelet is *potentially* faster for mist route, but is even more punishing, and is still estimated to be slower than bell route. This route is good, however, if you don't like doing the bells route skips, you particularly like The Mist/Phantom, or want to practice for a cloakless run.
 
 > [Mist route splits](https://hksplitmaker.com/?game=silksong&builtin=any-mist)  

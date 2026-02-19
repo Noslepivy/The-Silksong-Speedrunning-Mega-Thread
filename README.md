@@ -16,7 +16,7 @@ To see a repo of resources relevant for setting up speedrunning *tools*, such as
 
 ## Routes
 
-### [Any %](/Routes/Any%25Routes.md) <img src="https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Icons/Item/Key/Simple.png" height=16>
+### [Any %](/Routes/Any%25Routes.md) <img src="https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Media/Icons/Item/Key/Simple.png" height=16>
 
 ### [True Ending](/Routes/TERoutes.md)
 
@@ -44,13 +44,13 @@ To see a repo of resources relevant for setting up speedrunning *tools*, such as
 
 ## Movement
 
-### [General movement](/Movement/GeneralMovement.md) <img src="https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Icons/Tool/Silkspeed%20Anklets.png" height=16>
+### [General movement](/Movement/GeneralMovement.md) <img src="https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Media/Icons/Tool/Silkspeed%20Anklets.png" height=16>
 
 ### [Specific room movement](/Movement/SRMovement.md)
 
 ## Tech
 
-### [Combat tech](/Tech/CombatTech.md) <img src="https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Icons/Tool/Sawtooth%20Circlet.png" height=16>
+### [Combat tech](/Tech/CombatTech.md) <img src="https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Media/Icons/Tool/Sawtooth%20Circlet.png" height=16>
 
 ### [Movement tech](/Tech/MovementTech.md) 
 
@@ -70,7 +70,7 @@ To see a repo of resources relevant for setting up speedrunning *tools*, such as
 
 ### [Maps](/GameMechanics/Maps.md)
 
-### [Popular Keybinds](/GameMechanics/Keybinds.md) <img src="https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Icons/Skill/Inventory/Sylphsong.png" height=16>
+### [Popular Keybinds](/GameMechanics/Keybinds.md) <img src="https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Media/Icons/Skill/Inventory/Sylphsong.png" height=16>
 
 ## Additional resources
 
