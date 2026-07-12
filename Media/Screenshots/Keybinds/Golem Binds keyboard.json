@@ -1,8 +1,12 @@
 [
   [
+    {
+      "c": "#fade71"
+    },
     "Esc\n\n\n\n\n\n\n\n\nPause",
     {
-      "x": 1
+      "x": 1,
+      "c": "#cccccc"
     },
     "F1",
     "F2",
@@ -55,30 +59,39 @@
     },
     "Insert",
     "Home",
-    "PgUp",
-    {
-      "x": 0.25
-    },
-    "Num Lock",
-    "/",
-    "*",
-    "-"
+    "PgUp"
   ],
   [
     {
+      "c": "#fade71",
       "w": 1.5
     },
     "Tab\n\n\n\n\n\n\n\n\nQMap",
+    {
+      "c": "#cccccc"
+    },
     "Q",
+    {
+      "c": "#eb8521"
+    },
     "W\n\n\n\n\n\n\n\n\nUp\n↑",
+    {
+      "c": "#fade71"
+    },
     "E\n\n\n\n\n\n\n\n\nInv",
     "R\n\n\n\n\n\n\n\n\nMap",
     "T\n\n\n\n\n\n\n\n\nTasks",
+    {
+      "c": "#cccccc"
+    },
     "Y",
     "U",
     "I",
     "O",
     "P",
+    {
+      "c": "#5ab4cc"
+    },
     "{\n[\n\n\n\n\n\n\n\nBind",
     "}\n]\n\n\n\n\n\n\n\nSprint",
     {
@@ -86,48 +99,55 @@
     },
     "|\n\\\n\n\n\n\n\n\n\nHrpn",
     {
-      "x": 0.25
+      "x": 0.25,
+      "c": "#cccccc"
     },
     "Delete",
     "End",
-    "PgDn",
-    {
-      "x": 0.25
-    },
-    "7\nHome",
-    "8\n↑",
-    "9\nPgUp",
-    {
-      "h": 2
-    },
-    "+"
+    "PgDn"
   ],
   [
     {
       "w": 1.75
     },
     "Caps Lock",
+    {
+      "c": "#eb8521"
+    },
     "A\n\n\n\n\n\n\n\n\nLeft\n←",
     "S\n\n\n\n\n\n\n\n\nDown\n↓",
     "D\n\n\n\n\n\n\n\n\nRight\n→",
+    {
+      "c": "#5ab4cc"
+    },
     "F\n\n\n\n\n\n\n\n\nNdln",
+    {
+      "c": "#fade71"
+    },
     "G\n\n\n\n\n\n\n\n\nCrest",
+    {
+      "c": "#cccccc"
+    },
     "H",
+    {
+      "c": "#fade71"
+    },
     "J\n\n\n\n\n\n\n\n\nJrnl",
+    {
+      "c": "#cccccc"
+    },
     "K",
     "L",
+    {
+      "c": "#5ab4cc"
+    },
     ":\n;\n\n\n\n\n\n\n\nAttack",
     "\"\n'\n\n\n\n\n\n\n\nSkill\nTool",
     {
+      "c": "#cccccc",
       "w": 2.25
     },
-    "Enter",
-    {
-      "x": 3.5
-    },
-    "4\n←",
-    "5",
-    "6\n→"
+    "Enter"
   ],
   [
     {
@@ -137,7 +157,13 @@
     "Z",
     "X",
     "C",
+    {
+      "c": "#5ab4cc"
+    },
     "V\n\n\n\n\n\n\n\n\nChlng",
+    {
+      "c": "#cccccc"
+    },
     "B",
     "N",
     "M",
@@ -151,17 +177,7 @@
     {
       "x": 1.25
     },
-    "↑",
-    {
-      "x": 1.25
-    },
-    "1\nEnd",
-    "2\n↓",
-    "3\nPgDn",
-    {
-      "h": 2
-    },
-    "Enter"
+    "↑"
   ],
   [
     {
@@ -177,10 +193,12 @@
     },
     "Alt",
     {
+      "c": "#5ab4cc",
       "w": 6.25
     },
     "Space\n\n\n\n\n\n\n\n\nJump",
     {
+      "c": "#cccccc",
       "w": 1.25
     },
     "Alt",
@@ -201,12 +219,6 @@
     },
     "←",
     "↓",
-    "→",
-    {
-      "x": 0.25,
-      "w": 2
-    },
-    "0\nIns",
-    ".\nDel"
+    "→"
   ]
 ]

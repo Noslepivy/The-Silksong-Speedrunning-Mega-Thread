@@ -9,6 +9,10 @@ To see a repo of resources relevant for setting up speedrunning *tools*, such as
 > The Mega thread is currently under construction and will take a WHILE to complete. Any and all help is appreciated, feel free to leave any *small* corrections in the issues tab.<br>
 > If you'd like to contribute, I'm still figuring out the best way to make that accessible, but hopefully I'll figure it out soon lmao. For now, I'll be visiting each category and asking for help when needed. I am only one person, and can only read and edit so much. Thanks for your understanding.
 
+If anyone would like to support my time spent into making this resource you can donate to my ko-fi  
+By no means is it required, but any and all help is appreciated :3  
+[![Ko-fi Link](/Media/Icons/ko-fi-support.gif)](https://ko-fi.com/noslepivy)
+
 # [Glossary](/Glossary.md)
 
 > [!TIP]  
@@ -81,3 +85,12 @@ To see a repo of resources relevant for setting up speedrunning *tools*, such as
 ### [An introductory video guide to speedrunning Silksong](https://www.youtube.com/watch?v=CYudtHjQmzQ)
 
 ### [HK + Silksong Split maker](https://hksplitmaker.com/?game=silksong)
+
+# Contributers
+
+A quick thank you section to those that have provided resources, videos, guides, PR's, spellchecking my awful grammar etc etc etc
+- ### [Dasha-nkster](https://github.com/dasha-nkster)
+- ### [Alex Knauth](https://github.com/AlexKnauth)
+- ### [MonStahLer](https://www.youtube.com/@MonStahLer)
+- ### [Taiga](https://www.youtube.com/@TaigaSPYT)
+- ### [Popless Rebel](https://www.youtube.com/@PoplessRebel)

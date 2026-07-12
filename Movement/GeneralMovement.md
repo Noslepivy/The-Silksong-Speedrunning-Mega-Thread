@@ -21,7 +21,8 @@ A collection of general movement tech useful almost everywhere, used in any cate
 - [Flea Brew](/Movement/GeneralMovement.md#flea-brew)
 - [Clawline Pogo Dashing](/Movement/GeneralMovement.md#clawline-pogo-dashing)
 - [Silkspeed Anklets](/Movement/GeneralMovement.md#silkspeed-anklets)
-- [Bind Dash Resfresh](/Movement/GeneralMovement.md#)
+- [Dash Bind Stalling](/Movement/GeneralMovement.md#dash-bind-stalling)
+- [Bind Dash Resfresh](/Movement/GeneralMovement.md#bind-dash-refresh-minor-glitch)
 
 > ### Walking
 >I mean... do I need to explain walking? It's slow, don't walk, speedrun.
@@ -110,9 +111,14 @@ Hold Dash > Jump > Release Dash > Pogo > ... Repeat
 > Once you run out of silk, however, you will go back to normal speed until regaining silk again.  
 >![Silkspeed Anklets](/Media/Gifs/General%20Movement/silkspeed-anklets.gif)
 
+>### Dash Bind Stalling
+>By dashing and then almost immediately Binding, you keep the horizontal momentum of a dash while still keeping your height, allowing you to cross large gaps.  
+>Dash > Bind  
+>![Bind Dash Stalling](/Media/Gifs/General%20Movement/bind-dash-stalling.gif)
+
 >### Bind Dash Refresh (Minor Glitch)
 >Patched as of 1.0.28891.  
->Usually in patches 1.0.28714 and below, when in the air, Hornet will be allowed to dash once, and then needs to land again in order to refresh her dash.
->However, by binding in the air, and dashing at the time just as the bind finishes (usually people find it easier to spam the dash inout rather than time it), you're able to gain another in-air dash.  
+>Usually when in the air, Hornet will be allowed to dash once, and then needs to land again in order to refresh her dash.  
+>However, in patches 1.0.28714 and below, by binding in the air, and dashing just as the bind finishes (usually people find it easier to spam the dash input rather than time it) you're able to gain another in-air dash.  
 >(In-air) Dash > Bind > Dash  
->![Bind Dash Reset](/Media/Gifs/General%20Movement/bind_dash_refresh.gif)
+>![Bind Dash Reset](/Media/Gifs/General%20Movement/bind-dash-refresh.gif)
