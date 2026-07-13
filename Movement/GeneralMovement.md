@@ -48,7 +48,7 @@ Jump > Pogo > Release movement input (at any point during your pogo) > Repress m
 > ![Neutral Pogo](/Media/Gifs/General%20Movement/npogo.gif)
 >
 > A Short video By [Ox](https://www.youtube.com/@oxboxrox) to help explain the optimal height at which you want to pogo.  
->[![Ox NILS](https://img.youtube.com/vi/ZTF7dftVjVU/0.jpg)](https://www.youtube.com/watch?v=ZTF7dftVjVU)
+>![Ox NILS](/Media/Gifs/General%20Movement/ox_NIL_examples.gif)
 
 
 
