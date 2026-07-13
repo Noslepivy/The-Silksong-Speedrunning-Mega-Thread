@@ -91,6 +91,7 @@ By no means is it required, but any and all help is appreciated :3
 A quick thank you section to those that have provided resources, videos, guides, PR's, spellchecking my awful grammar etc etc etc
 - ### [Dasha-nkster](https://github.com/dasha-nkster)
 - ### [Alex Knauth](https://github.com/AlexKnauth)
+- ### [OxBox](https://www.youtube.com/@oxboxrox)
 - ### [MonStahLer](https://www.youtube.com/@MonStahLer)
 - ### [Taiga](https://www.youtube.com/@TaigaSPYT)
 - ### [Popless Rebel](https://www.youtube.com/@PoplessRebel)
