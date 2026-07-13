@@ -11,7 +11,7 @@ To see a repo of resources relevant for setting up speedrunning *tools*, such as
 
 If anyone would like to support my time spent into making this resource you can donate to my ko-fi  
 By no means is it required, but any and all help is appreciated :3  
-[![Ko-fi Link](/Media/Icons/ko-fi-support.gif)](https://ko-fi.com/noslepivy)
+[![Ko-fi Link](/Media/Icons/ko-fi.png)](https://ko-fi.com/noslepivy)
 
 # [Glossary](/Glossary.md)
 

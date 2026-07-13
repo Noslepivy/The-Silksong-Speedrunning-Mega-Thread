@@ -11,7 +11,7 @@
 >### The Default
 >The defualt binds might not be the best, but they get the job done.
 >![Default Binds keyboard](/Media/Screenshots/Keybinds/Default%20binds%20keyboard.png)  
->![Default Binds](/Media/Screenshots/Keybinds/Default%20Binds.png)
+>![Default Binds](/Media/Screenshots/Keybinds/Default%20binds.png)
 
 >### Cyv's Binds
 >![Cyv Binds keyboard](/Media/Screenshots/Keybinds/Cyv%20binds%20keyboard.png)  
