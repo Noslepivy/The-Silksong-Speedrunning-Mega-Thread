@@ -11,6 +11,8 @@ You may notice on [SRC](https://www.speedrun.com/silksong) the leaderboard is sp
     - [LP Bells](#bell-route)
     - [LP Mist](#mist-route-with-cloak)
 - ### [Any% AG](#any--all-glitches)
+- ### [Additional resources](#additional-resources-1)
+  - [COMSOB, ROOMSOB, Mist strats thread](#additional-resources-1) 
 
 ---
 
@@ -22,17 +24,18 @@ There are a few different routes for any% NMG. The Main differences:
 Cloakless runs are faster than the cloak routes below, but require running on **Release Patch (1.0.28324)** In order to take advantage of a particular walljump in the underworks, only available on the release patch.   
 These runs go through the mist, saving time from better routing, not having to collect bells, skipping Drifter's cloak, and skipping certain bosses.  
 
+---
 
 ### Key route
----
 - Key route is fastest of all any% NMG routes (~90-120 seconds faster than LP bell route as reference), gets 500 rosaries during the movement to and from bell beast, to buy a simple key in Bone Bottom, then goes through Wormways to get to Shellwood.
 
 >[Key route splits](https://hksplitmaker.com/?game=silksong&builtin=any-key)  
 >[Key route notes](https://docs.google.com/document/d/e/2PACX-1vSMkElA8vNdvb2wVgxlyFs2wRPl4vgs53CK-6-zWkWGjZMalrqM-IX15c19MYgwlZpuJPm0kyacWqur/pub)  
 > No video guide as of yet, however, watching the top runs on [SRC](https://www.speedrun.com/silksong?h=any-no-major-glitches-release-patch&x=zd39j4nd-ylq4yvzn.qzne828q-rn1kmmvl.10vzvmol) can help a lot with understanding the route.
 
-### Flea route
 ---
+
+### Flea route
 - Flea route is ~~cutest~~ slower than key, but was originally more popular. Collects five fleas and uses the flea caravan to get to Greymoor without cloak. Notably, flea route has to fight Lace while key does not, in order to get a flea located in far fields.
 
 >[Fleas route splits](https://hksplitmaker.com/?game=silksong&builtin=any-fleas)  
@@ -46,9 +49,9 @@ These runs go through the mist, saving time from better routing, not having to c
 
 ### The below cloak routes are run on later patches of the game, and get Drifters Cloak. The early game is the same up to Greymor, then you have two routes to get to the Citadel:
 
+---
 
 ### Bell Route
----
 - This is by far the most popular route, due to it being fairly beginner-friendly and a great entry point for speedrunning. Bells gets 5 bells, fights The Last Judge to go through the Grand Gate for Act 2. It's ~20 seconds faster than a cloak mist due to some tricky skips in Blasted Steps, and a craw pogo to Greymoor bell. There are easier alternatives to these skips, however, by doing the slower, easier version, you lose the 20-second time save this route has over a Cloaked Mist. This route without the skips may be the easiest for beginners, and is good practice if you want to add the skips in later.
 - Additionally the bell route may take advantage of the tool [Sawtooth Circlet](https://hollowknight.wiki/w/Sawtooth_Circlet) in order to kill bosses incredibly quickly with [Sawtooth turn-arounds](/Tech/CombatTech.md#sawtooth-turn-arounds)  
 - Notes for the sawtooth route can be found within the discord as it's not the most popular route.
@@ -59,13 +62,14 @@ These runs go through the mist, saving time from better routing, not having to c
 >[!NOTE]  
 > The bell route is currently most optimal on patch **1.0.29242** in order to make use of the nail upgrade cutscene skip, while still taking advantage of Lace 2's broken hitboxes during her fight.
 
-### Mist route (with cloak)
 ---
+
+### Mist route (with cloak)
 - This was the original any% route when speedrunning first started; Multiple routes could be considered "The Mist route" as they go through Sinners Road for The Mist, and fight Phantom to enter act 2. Specifically, a mist route with cloak is slower than bells and has the difficulty of The Mist itself, which can be quite punishing and can lead to random time loss, but doesn't have any difficult skips. Picking up and using Barbed Bracelet is *potentially* faster for mist route, but is even more punishing, and is still estimated to be slower than bell route. This route is good, however, if you don't like doing the bells route skips, you particularly like The Mist/Phantom, or want to practice for a cloakless run.
 
 > [Mist route splits](https://hksplitmaker.com/?game=silksong&builtin=any-mist)  
 > [Mist route notes](https://docs.google.com/document/d/1OwFO5OSDMIZWn24Jm6f14QtfF7145Aom5T-exSffINI/edit?tab=t.0#heading=h.umnydksznp6v)  
-> [A guide to the mist by Ox](https://www.youtube.com/watch?v=XnCsbhWmSQE)
+> [Mist guide and resources Page](/GameMechanics/TheMist.md)
 
 ---
 
@@ -81,5 +85,22 @@ The All Glitches run has 2 main routes, one covered in the guide below (with a c
   
   > [Low % route room dupe example](https://www.youtube.com/watch?v=UQJ6grrrIZw)  
   > Unfortunately, there isn't any form of guide on this specific route at this time, however take note of the differences between Any% AG runs and [Low% AG runs](/Routes/Low%25Routes.md#low--ag-routes) as they are VERY similar.
+
+## Additional Resources
+
+- [COMSOB](https://docs.google.com/spreadsheets/d/1-Hy5k_h9dBUUPlwh_I14K-DEwGcNdVQ0utI-KX56d8c)  
+Any% also has a COMSOB (Community sum of best) sheet, which shows the best times the community has finished a split.  
+This is generally a very good resource if you're looking for the best and fastest strategies.
+
+- [ROOMSOB](https://docs.google.com/spreadsheets/d/1xLeiXpm3qLuPxKpq15Z7VHT31VIS5KIKG_45zAS2tfI/edit?gid=170715606#gid=170715606)  
+ROOMSOB is similar to COMSOB, but instead of having timings of an entire split, it's the best time the community has done for a single room during the any% routes.
+
+- [ROOMSOB Thread](https://discord.com/channels/772964112908156938/1471622198455304233)  
+A discussion thread for ROOMSOB can be found within the discord.  
+
+- [Mist Strats Thread](https://discord.com/channels/772964112908156938/1526659889512976506)  
+A discussion thread for the best Mist strategies within the discord.  
+
+---
 
 [![Back Button](/Media/Icons/BackButton30px.png)](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/README.md)

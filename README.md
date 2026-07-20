@@ -14,7 +14,7 @@ By no means is it required, but any and all help is appreciated :3
 
 [![Ko-fi Link](/Media/Icons/ko-fi.png)](https://ko-fi.com/noslepivy)
 
-# [Glossary](/Glossary.md) <img src="https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Media/Icons/Item/Map/Inventory/Map%20and%20Quill.png" height=48>
+# [Glossary](/Glossary.md) <img src="https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Media/Icons/Item/Map/Inventory/Map%20and%20Quill.png" height=32>
 
 > [!TIP]  
 > By using CTRL+F in the Glossary (Or on any page for that matter), you can search for explanations of key terms, find, and use relevant links.
@@ -23,7 +23,7 @@ By no means is it required, but any and all help is appreciated :3
 
 ### [Any %](/Routes/Any%25Routes.md) <img src="https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Media/Icons/Item/Key/Simple.png" height=16>
 
-### [True Ending](/Routes/TERoutes.md)
+### [True Ending](/Routes/TERoutes.md) <img src="https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Media/Icons/Item/Map/Pin/Courier.png" height=16>
 
 ### [100%](/Routes/100%25Routes.md)
 
@@ -99,3 +99,5 @@ A quick thank you section to those that have provided resources, videos, guides,
 - [MonStahLer](https://www.youtube.com/@MonStahLer)
 - [Taiga](https://www.youtube.com/@TaigaSPYT)
 - [Popless Rebel](https://www.youtube.com/@PoplessRebel)
+- [Zodiam](https://www.youtube.com/channel/UCRsM8uVIL54wG2FBZp5vCjQ)
+- [Rilesey](https://www.youtube.com/channel/UCYd2xlzbonUxNJLxVRsBQVQ)

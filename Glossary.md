@@ -8,14 +8,14 @@ Terms will be sorted Alphabetically where possible.
  > [!Tip]  
  You can use the Ctrl+F (or Cmd+F) shortcut to open a search box, to look for specific terms.
 
-- ### [General Speedrunning Terms](/Glossary.md#general-speedrunning-terms)
-- ### [Speed Tech](/Glossary.md#speed-tech)
-- ### [Glitched Terms](/Glossary.md#glitched-terms)
-- ### [Speedrun Categories](/Glossary.md#speedrun-categories)
-- ### [Bosses and Enemies](/Glossary.md#bosses-and-enemies)
-- ### [In-Game Areas](/Glossary.md#in-game-areas)
-- ### [Items, tools, skills, and upgrades](/Glossary.md#items-tools-skills-and-upgrades)
-- ### [Rando Terms](/Glossary.md#rando-terms)
+- ### [General Speedrunning Terms](/Glossary.md#general-speedrunning-terms-1)
+- ### [Speed Tech](/Glossary.md#speed-tech-1)
+- ### [Glitched Terms](/Glossary.md#glitched-terms-1)
+- ### [Speedrun Categories](/Glossary.md#speedrun-categories-1)
+- ### [Bosses and Enemies](/Glossary.md#bosses-and-enemies-1)
+- ### [In-Game Areas](/Glossary.md#in-game-areas-1)
+- ### [Items, tools, skills, and upgrades](/Glossary.md#items-tools-skills-and-upgrades-1)
+- ### [Rando Terms](/Glossary.md#rando-terms-1)
 
 <!--**{LINKS NEEDED FOR A LOT FO THESE, MOST TO THEIR TECH PAGE WHEN CREATED}** -->
 
