@@ -40,6 +40,7 @@ Terms will be sorted Alphabetically where possible.
 | NMG  | No Major Glitches  | A category that disallows using a set of glitches, often voted on by the community, that are considered "major". |
 | PB  | Personal Best  | The fastest a runner has completed a run. |
 | ROOMSOB  | Room Sum of Best  | A table of the fastest room times's the community has gotten. |
+| RP  | Release Patch  | The patch that the game was released on. Used to access tech that was later patched out. |
 | RTA  | Real Time Attack  | Your total run time from start to finish. Loads are not removed unlike LRT. LRT is preferred but often not possible for some people, like console players, hence RTA usage. |
 | SOB  | Sum Of Best  | A total time, derived from a runners fastest performed splits (Gold's). |
 | SR  | Speedrun  | |
