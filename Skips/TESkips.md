@@ -1,6 +1,8 @@
-# True Ending Skips
-
 [![Back Button](/Media/Icons/BackButton30px.png)](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/README.md)
+
+---
+
+# True Ending Skips
 
 A collection of skips and time saves relevant for True Ending runs.
 
@@ -18,5 +20,7 @@ A collection of skips and time saves relevant for True Ending runs.
 >- Greymoor_03 (halfway home)
 >- Bilewater shadow_01 (Groal skip)
 >- Greymoor_03 (again)
+
+---
 
 [![Back Button](/Media/Icons/BackButton30px.png)](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/README.md)

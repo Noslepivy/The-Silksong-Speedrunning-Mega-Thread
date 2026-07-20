@@ -1,6 +1,8 @@
-# Combat Tech 
-
 [![Back Button](/Media/Icons/BackButton30px.png)](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/README.md)
+
+---
+
+# Combat Tech 
 
 A collection of unique combat tech used anywhere and everywhere.
 
@@ -94,5 +96,7 @@ A collection of unique combat tech used anywhere and everywhere.
 > - Whispfire lantern  
 > ![Taiga Karm Tools](/Media/Gifs/Combat%20Tech/taiga-karm-tools.gif)  
 > Video Provided with credit to [MonStahLer](https://www.youtube.com/@MonStahLer) and [TaigaSP](https://www.youtube.com/@TaigaSPYT). You can watch the full HD fight with sound, and more information [here](https://www.youtube.com/shorts/cz6XtwZP1tI).
+
+---
 
 [![Back Button](/Media/Icons/BackButton30px.png)](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/README.md)

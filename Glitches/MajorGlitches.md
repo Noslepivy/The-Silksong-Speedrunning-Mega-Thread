@@ -1,6 +1,8 @@
-# Major Glitches
-
 [![Back Button](/Media/Icons/BackButton30px.png)](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/README.md)
+
+---
+
+# Major Glitches
 
 A collection of glitches deemed major (or yet undecided on) by the SRC rules, banned for NMG runs.
 
@@ -21,5 +23,7 @@ A collection of glitches deemed major (or yet undecided on) by the SRC rules, ba
 > explanation  
 > how to execute  
 > video
+
+---
 
 [![Back Button](/Media/Icons/BackButton30px.png)](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/README.md)

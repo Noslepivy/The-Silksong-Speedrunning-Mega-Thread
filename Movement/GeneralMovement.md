@@ -1,6 +1,8 @@
-# General Movement
-
 [![Back Button](/Media/Icons/BackButton30px.png)](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/README.md)
+
+---
+
+# General Movement
 
 A collection of general movement tech useful almost everywhere, used in any category.  
 
@@ -124,5 +126,7 @@ Hold Dash > Jump > Release Dash > Pogo > ... Repeat
 >However, in patches 1.0.28714 and below, by binding in the air, and dashing just as the bind finishes (usually people find it easier to spam the dash input rather than time it) you're able to gain another in-air dash.  
 >(In-air) Dash > Bind > Dash  
 >![Bind Dash Reset](/Media/Gifs/General%20Movement/bind-dash-refresh.gif)
+
+---
 
 [![Back Button](/Media/Icons/BackButton30px.png)](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/README.md)

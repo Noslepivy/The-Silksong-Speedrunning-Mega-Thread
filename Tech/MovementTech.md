@@ -1,6 +1,8 @@
-# Movement Tech
-
 [![Back Button](/Media/Icons/BackButton30px.png)](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/README.md)
+
+---
+
+# Movement Tech
 
 A collection of unique movement tech relevant to many categories
 
@@ -19,5 +21,7 @@ A collection of unique movement tech relevant to many categories
 >When in-air:  
 > Double Jump > Throw vessels at a wall (or if you have sawtooth equipped, you can use sawtooth to split them) >Float for a moment > "Pogo" the bola with snare setter or drill > ... Repeat
 > ![Volt Pogo](/Media/Gifs/Movement%20Tech/volt-pogos.gif)
+
+---
 
 [![Back Button](/Media/Icons/BackButton30px.png)](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/README.md)
