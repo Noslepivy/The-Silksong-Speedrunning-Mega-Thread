@@ -21,6 +21,9 @@ On patches below 1.0.29242, at any point you can choose to "juggle" a room, wher
 
 - More info at [Mist Document](<https://docs.google.com/document/d/1wGYxE_mDfZ_Qtbs6cvcTZggTFPYTBJ9Rijno0VZkNdA/edit?usp=sharing>) or [Mist Video Guide](<https://youtu.be/XnCsbhWmSQE>)
 
+- Additionally you may want to visit, the [Mist Strats Thread](https://discord.com/channels/772964112908156938/1526659889512976506)  
+A discussion thread for the best Mist strategies (mainly for Any%) within the speedrunning discord.
+
 ---
 
 [![Back Button](/Media/Icons/BackButton30px.png)](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/README.md)
