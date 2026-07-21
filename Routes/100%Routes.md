@@ -13,11 +13,12 @@ As a note - Downpatched routes are generally faster than LP routes.
   - [Monstah v6.2](#monstahs-v62)
 
 - ### [LP routes](#lp-routes-1)
-  - [Blackwolf LP Bells](#blackwolf-lp-bells)
+  - [**THE** Hundo Route LP Edition](#the-hundo-route-lp-edition)
   - [Mathulu LP Mist](#mathulu-lp-mist)
 
 - ### [Older or Unfinished Routes](#older-or-unfinished-routes-1)
   - [Monstah's Route Collection](#monstahs-milanote-route-collection)
+  - [BlakWolf LP Bells](#blakwolf-lp-bells)
   - [Leti LP Mist](#leti-lp-mist)
   - [tRavage 891 Bells](#travage-891-bells)
   - [JW Bells](#jw-bells)
@@ -41,7 +42,7 @@ These routes are ran on 1.0.28891 mainly to take advantage of [Voltvessel Pogos]
 
 - ### [THE Hundo Route](https://app.milanote.com/1WJd0Q1KzAYA4r/the-hundo-route?p=S3qQVRjwUiB)
 Ran on version 1.0.28891  
-A culmination of hundo routing experience from multiple runners, this is (as stated) THE best route for 100% currently.
+A culmination of hundo routing experience from multiple runners, this is (as stated) THE best route for 100% currently. Also referred to as v7 or z7.
 > Route splits to be available soon on HKSM  
 > [THE Hundo route Notes](https://app.milanote.com/1WJd0Q1KzAYA4r/the-hundo-route?p=S3qQVRjwUiB)  
 > Savestates coming soon  
@@ -68,10 +69,10 @@ MonStahLer's routes speak for themselves given his experience in running, and re
 
 ## LP Routes
 
-- ### [Blackwolf LP Bells](https://pastebin.com/raw/DKvsQWg9)
-A route by Blackwolf possible on any patch, taking the Bell route through Act 1.
->[LP Bells Splits](https://hksplitmaker.com/?game=silksong&builtin=100-bells-route)  
->[LP Bells Notes](https://pastebin.com/raw/DKvsQWg9)  
+- ### [THE Hundo Route LP Edition](https://pastebin.com/QFTZCNCw)
+As the name suggests, this is a route written up by BlakWolf following as closely to THE hundo route above, modified slightly for LP routing, removing [Voltvessel Pogo's](/Tech/MovementTech.md#voltvessel-pogos) etc.
+>[LP v7 Splits] to be available soon on HKSM  
+>[LP v7 Notes](https://pastebin.com/QFTZCNCw)
 
 - ### [Mathulu LP Mist](https://pastebin.com/raw/wXQeQpvW) 
 A route by Mathulu possible on any patch, taking the Mist route through Act 1.
@@ -86,6 +87,9 @@ Splits for each of these are available on [HKSM](https://hksplitmaker.com/?game=
 
 ### [Monstah's Milanote Route Collection](https://app.milanote.com/1UWRKC16EY1t7x/detailed-route-v51?p=4KWVkAUB4ds)
 - (all links on the right hand side of the Milanote)  
+### [BlakWolf LP Bells](https://pastebin.com/raw/DKvsQWg9)
+>[LP Bells Splits](https://hksplitmaker.com/?game=silksong&builtin=100-bells-route)  
+>[LP Bells Notes](https://pastebin.com/raw/DKvsQWg9)
 ### [Leti LP Mist](https://app.milanote.com/1VCoiU10xwstbN?p=lmQx46OVjim)
 ### [tRavage 891 Bells](https://app.milanote.com/1VwIKA1LVBKZdf?p=dJ9GRAcsEDO)
 ### [JW Bells](https://docs.google.com/document/d/1bKXTu8ZtDbsMReaRgIrm2zAMZHon7sl8yN3AkbycfJM/edit?tab=t.ym0sef7r6h7o)

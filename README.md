@@ -104,7 +104,7 @@ I apologise if i  miss anyone, keeping track of this is harder than I thought!
 - [Rilesey](https://www.twitch.tv/rilesey)
 - [LaneOrLaine](https://www.twitch.tv/laneorlaine)
 - [Mathulu](https://www.twitch.tv/mathulu)
-- [Blackwolf](https://www.twitch.tv/blakwolf_)
+- [BlakWolf](https://www.twitch.tv/blakwolf_)
 - [tRavage](https://www.twitch.tv/travage_)
 - [HollowLeti](https://www.youtube.com/@Indiesfureva/videos)
 - [Blobdoodles](https://www.twitch.tv/blob_by_)
