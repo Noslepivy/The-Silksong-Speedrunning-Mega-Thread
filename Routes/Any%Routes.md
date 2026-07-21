@@ -26,6 +26,9 @@ There are a few different routes for any% NMG. The Main differences:
 Cloakless runs are faster than the cloak routes below, but require running on **Release Patch (1.0.28324)** In order to take advantage of a particular walljump in the underworks, only available on the release patch.   
 These runs go through the mist, saving time from better routing, not having to collect bells, skipping Drifter's cloak, and skipping certain bosses.  
 
+> [!TIP] 
+>You can learn how to downpatch your game with [this video guide](https://www.youtube.com/watch?v=0Dywy01mkcY&list=PLA1yO3IrXAJg&index=4) or [this text guide](https://www.speedrun.com/silksong/guides/6puuo).
+
 ---
 
 ### Key route

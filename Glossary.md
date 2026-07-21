@@ -29,7 +29,9 @@ Terms will be sorted Alphabetically where possible.
 | BPT  | Best Possible Time  | A livesplit component often used to show (roughly) the best time a runner can achieve on their current pace, assuming they hit their golds. |
 | Cat  | Speedrun category  | |
 | COMSOB  | Community Sum of Best  | A table of the fastest Gold's the community has gotten. |
+| Downpatch / Downpatching | | Reverting your game to an onlder version, usually to gain access to removed tricks and glitches. |
 | Gold  |  | The fastest time a runner has completed a split |
+| Hardsave |  | When the game forces a save, and updates your latest spawn location replacing the last bench sat at. In Silksong, a few hardsaves known are binding a new ability, obtaining a new silk skill, undergoing an event such as the elevator crash, etc. |
 | HK  | Hollow Knight  | |
 | HKC  | Hollow Knight Community  | Can often refer to the HKC twitch and youtube channels. |
 | IGT  | In-Game time  | The timer used in game for things like profile usage length, and the time after credits. A very unreliable timer. |
@@ -40,14 +42,16 @@ Terms will be sorted Alphabetically where possible.
 | NMG  | No Major Glitches  | A category that disallows using a set of glitches, often voted on by the community, that are considered "major". |
 | PB  | Personal Best  | The fastest a runner has completed a run. |
 | ROOMSOB  | Room Sum of Best  | A table of the fastest room times's the community has gotten. |
-| RP  | Release Patch  | The patch that the game was released on. Used to access tech that was later patched out. |
+| RP  | Release Patch  | Also known as version 1.0.28324. The patch that the game was released on. Used to access tech that was later patched out. |
 | RTA  | Real Time Attack  | Your total run time from start to finish. Loads are not removed unlike LRT. LRT is preferred but often not possible for some people, like console players, hence RTA usage. |
 | SOB  | Sum Of Best  | A total time, derived from a runners fastest performed splits (Gold's). |
+| SQ | Save and quit | Leaving the game, to return to the main menu. Often used as a way to quickly get back to the last bench you sat at. |
 | SR  | Speedrun  | |
 | SRC  | Speedrun.com  | https://www.speedrun.com/silksong - AKA The leaderboards.
 | SS  | Silksong  | *"SS? did you mean: Shaman stone, Shade skip, Shade soul, Sharp shadow, Soul sanctum, Sealed siblings, Sly's shop, Salubra's shop, Stag stations, Spore shroom, Stalwart shell, Stone sanctuary, Silksong, Silkspear, Silkshot, Silk soar, Silk spool, Silk skill, Swift step, Sylph song, Sister splinter, Second sentinel, Summoned savior, Sprintmaster swift, Silk snipper, Skull scuttler, Skarr scout, Skarr stalker, Spear skarr, Smelt shoveler, Smokerock sifter, Spit squit, Swamp squit, Sting shard, Shell satchel, Spider strings, Snare setter, Songclave supplies, Seeker's soul, Soul snare, Snared silk, Steel soul, Steel seer, Snail shaman, Slug storage, Sedic slash, Scream skip, Superslide, Savestate, Summoning Salt, or Screenshot*" - ZoteBot |
 | TFT (T-FT) | Time Minus Fixed Time |  The desync between when physics is calculated and when frames get rendered. It affects everything, among which is nonsense including, but not limited to, position interpolation - which can give you "rng" softfall in Hollow Knight. |
-
+| TP | Time Passes | A game mechanic that triggers when benching, or saving and quitting. That is used to count, and progress some events. |
+| TPE | Time Passes Elsewhere | A game mechanic that triggers when benching, or saving and quitting, specifically outside of the area an event needs to trigger. Again used to progress some game events. |
 
 ## Speed Tech 
 | Term  | Meaning | Explanation |
@@ -74,6 +78,7 @@ Terms will be sorted Alphabetically where possible.
 | Awoo% | All Fleas |  |
 | Awooo% | All Fleas and beaten flea games |  |
 | BASS | Basically all silk skills | A category that gets all the silk skills, except for pail nails, preventing the need to enter act 3. |
+| Hundo | 100% | Completing the game while achieving 100% game completion. |
 | IL | Individual Level | A small section of a run, either for practice or as a leaderboard category, for example Moss Grotto IL, where time ends upon leaving Moss Grotto. |
 | NMMS | No Main Menu Storage | A glitched category, that allows a lot of glitches, but not MMS |
 | RMG | Restricted Major Glitches | Some, but not all Major glitches are allowed. |

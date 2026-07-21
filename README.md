@@ -89,7 +89,8 @@ By no means is it required, but any and all help is appreciated :3
 
 # Contributers
 
-A quick thank you section to those that have provided resources, videos, guides, PR's, spellchecking my awful grammar etc etc etc
+A quick thank you section to those that have provided resources, videos, guides, PR's, spellchecking my awful grammar etc etc etc.  
+I apologise if i  miss anyone, keeping track of this is harder than I thought!
 - [Dasha-nkster](https://github.com/dasha-nkster)
 - [Alex Knauth](https://github.com/AlexKnauth)
 - [Slaurent](https://github.com/slaurent22)
@@ -102,3 +103,8 @@ A quick thank you section to those that have provided resources, videos, guides,
 - [Zodiam](https://www.twitch.tv/zodiam_)
 - [Rilesey](https://www.twitch.tv/rilesey)
 - [LaneOrLaine](https://www.twitch.tv/laneorlaine)
+- [Mathulu](https://www.twitch.tv/mathulu)
+- [Blackwolf](https://www.twitch.tv/blakwolf_)
+- [tRavage](https://www.twitch.tv/travage_)
+- [HollowLeti](https://www.youtube.com/@Indiesfureva/videos)
+- [Blobdoodles](https://www.twitch.tv/blob_by_)

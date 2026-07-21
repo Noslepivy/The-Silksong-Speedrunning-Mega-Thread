@@ -22,7 +22,10 @@ Before mentioning anything else, a [Milanote](https://app.milanote.com/1WbEZ01cd
 
 ### True Ending 1.0.28891
 This is the current fastest route for TE.  
-It is ran on version 1.0.28891, mainly to take advantage of [Voltvessel Pogos](/Tech/MovementTech.md#voltvessel-pogos) which were are not possible in later patches.
+It is ran on version 1.0.28891, mainly to take advantage of [Voltvessel Pogos](/Tech/MovementTech.md#voltvessel-pogos) which are not possible in later patches.
+
+> [!TIP] 
+>You can learn how to downpatch your game with [this video guide](https://www.youtube.com/watch?v=0Dywy01mkcY&list=PLA1yO3IrXAJg&index=4) or [this text guide](https://www.speedrun.com/silksong/guides/6puuo).
 
 >[TE 891 Route Splits here](https://hksplitmaker.com/?game=silksong&builtin=te-891)  
 >[TE 891 Notes here](https://app.milanote.com/1WbFcm1cdcT3dK/silksong-true-ending-patch-1028891?p=Ug6mw9f6KRi)  
@@ -33,7 +36,8 @@ It is ran on version 1.0.28891, mainly to take advantage of [Voltvessel Pogos](/
 ---
 
 ### True Ending LP
-Later patch True ending runs are typically slower, as they cannot do [Voltvessel Pogos](/Tech/MovementTech.md#voltvessel-pogos) but they are possible to do on all patches, preventing the ned to downpatch your game.
+Later patch True ending runs are typically slower, as they cannot do [Voltvessel Pogos](/Tech/MovementTech.md#voltvessel-pogos) but prevent the need to downpatch your game.  
+This route is possible to do on all patches.
 
 >[TE LP Route Splits here](https://hksplitmaker.com/?game=silksong&builtin=te)  
 >[TE LP Notes here](https://app.milanote.com/1WbEZ11uqkHtUz/silksong-true-ending-lp?p=Ug6mw9f6KRi)  
@@ -52,7 +56,7 @@ This is generally a very good resource if you're looking for the best and fastes
 ROOMSOB is similar to COMSOB, but instead of having timings of an entire split, it's the best time the community has done for a single room during the TE routes.
 
 - [Comsob / Roomsob Thread](https://discord.com/channels/772964112908156938/1493319671414526106)  
-A discussion thread for ROOMSOB can be found within the discord.
+A discussion thread for COMSOOB and ROOMSOB can be found within the discord.
 
 - [Brew Timings Thread](https://discord.com/channels/772964112908156938/1470391028824674345)  
 A discussion thread for the best times to use Flea Brew throughout the run.
