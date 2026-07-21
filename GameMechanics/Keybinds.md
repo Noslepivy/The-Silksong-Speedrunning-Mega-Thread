@@ -4,7 +4,7 @@
 
 # Popular Keybinds
 
-- [The defualt binds](/GameMechanics/Keybinds.md#the-default)
+- [The default binds](/GameMechanics/Keybinds.md#the-default)
 - [Cyv's keybinds](/GameMechanics/Keybinds.md#cyvs-binds)
 - [Nebula's keybinds](/GameMechanics/Keybinds.md#nebulas-binds)
 - [Delta's Keybinds](/GameMechanics/Keybinds.md#deltas-binds)
@@ -13,7 +13,7 @@
 - [Emma's Keybinds](/GameMechanics/Keybinds.md#emmas-binds)
 
 >### The Default
->The defualt binds might not be the best, but they get the job done.
+>The default binds might not be the best, but they get the job done.
 >![Default Binds keyboard](/Media/Screenshots/Keybinds/Default%20binds%20keyboard.png)  
 >![Default Binds](/Media/Screenshots/Keybinds/Default%20binds.png)
 
