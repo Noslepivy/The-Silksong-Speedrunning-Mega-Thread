@@ -10,7 +10,7 @@ You may notice on [SRC](https://www.speedrun.com/silksong) the leaderboard is sp
 - ### [Any% NMG](#any-no-major-glitches) (in order of fastest to slowest)
     - [RP Key route](#key-route)
     - [RP Flea route](#flea-route)
-    - [LP Bells](#bell-route)
+    - [LP Bells](#bell-route) (most popular for beginners)
     - [LP Mist](#mist-route-with-cloak)
 - ### [Any% AG](#any--all-glitches)
 - ### [Additional resources](#additional-resources-1)
@@ -19,7 +19,7 @@ You may notice on [SRC](https://www.speedrun.com/silksong) the leaderboard is sp
 ---
 
 ## Any% No Major Glitches
-There are a few different routes for any% NMG. The Main differences:
+There are a few different routes for any% NMG. The main differences:
 - Cloak / Cloakless
 - Bell route (Last Judge) / Mist route (Phantom)
 
@@ -56,7 +56,7 @@ These runs go through the mist, saving time from better routing, not having to c
  
 ---
 
-### The below cloak routes are run on later patches of the game, and get Drifters Cloak. The early game is the same up to Greymor, then you have two routes to get to the Citadel:
+### The below cloak routes are run on later patches of the game, and get Drifters Cloak. The early game is the same up to Greymoor, then you have two routes to get to the Citadel:
 
 ---
 
