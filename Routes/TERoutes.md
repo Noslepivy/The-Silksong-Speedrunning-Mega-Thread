@@ -16,7 +16,7 @@ A collection of True Ending routes, with an explanation of their differences, li
 ---
 
 ### Priority resource - [True Ending Milanote](https://app.milanote.com/1WbEZ01cdcT3dH/hollow-knight-silksong-true-ending?p=Ug6mw9f6KRi)
-Before mentioning anything else, a [Milanote](https://app.milanote.com/1WbEZ01cdcT3dH/hollow-knight-silksong-true-ending?p=Ug6mw9f6KRi) has been created serving as a good repository of True Ending resources, projects, information and current routes.
+Before mentioning anything else, a [Milanote](https://app.milanote.com/1WbEZ01cdcT3dH/hollow-knight-silksong-true-ending?p=Ug6mw9f6KRi) has been created that serves as a good repository of True Ending resources, projects, information and current routes.
 
 ---
 
@@ -65,14 +65,14 @@ A discussion thread for the best times to use Flea Brew throughout the run.
 A thread for an older reroute discussion for TE. It's no longer in use, but contains various timings, that are still useful for routing.
 
 - [Silk and Soul requirements](https://app.milanote.com/1WbEZ11uqkHtVk/silk-and-soul--act-3-requirements?p=Ug6mw9f6KRi)  
-Completing True Ending, means completing the Silk and Soul quest, which has a rather complex set of requirements. The link above explains in more detail, the requirements of each of these points. But as a very basic explanation, you are required to : 
+Completing True Ending means completing the Silk and Soul quest, which has a rather complex set of requirements. The link above explains in more detail, the requirements of each of these points. But as a very basic explanation, you are required to : 
   - Collect Faydown Cloak
   - Have the flea caravan travel to Fleatopia
-  - Acquired the Bellhome Key
-  - Defeated Lace in the Cradle
-  - Acquired Snare Setter
-  - Acquired Maiden's Soul, Seeker's Soul, and Hermit's soul
-  - Completed these 10 **compulsory** wishes - Flexile Spines, Bone Bottom Repairs, A Lifesaving Bridge, Building Up Songclave, Strengthening Songclave, Restoration of Bellhart, Bellhart's Glory, Trail's End, Balm For the Wounded, and Crawbug Clearing.
+  - Acquire the Bellhome Key
+  - Defeat Lace in the Cradle
+  - Acquire Snare Setter
+  - Acquire Maiden's Soul, Seeker's Soul, and Hermit's soul
+  - Complete these 10 **compulsory** wishes - Flexile Spines, Bone Bottom Repairs, A Lifesaving Bridge, Building Up Songclave, Strengthening Songclave, Restoration of Bellhart, Bellhart's Glory, Trail's End, Balm For the Wounded, and Crawbug Clearing.
   - Collect a further 17 wish points. Most wishes will give you 1 wish point, with the exception of the courier deliveries, which will give 0.5 wish points each.
 
 ---
