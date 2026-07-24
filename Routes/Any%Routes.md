@@ -11,7 +11,7 @@ You may notice on [SRC](https://www.speedrun.com/silksong) the leaderboard is sp
 - ### [Any% NMG](#any-no-major-glitches) (in order of fastest to slowest)
     - [RP Key route](#key-route)
     - [RP Flea route](#flea-route)
-    - [LP Bells](#bell-route)
+    - [LP Bells](#bell-route) (most popular for beginners)
     - [LP Mist](#mist-route-with-cloak)
 - ### [Any% AG](#any--all-glitches)
 - ### [Additional resources](#additional-resources-1)
@@ -20,7 +20,7 @@ You may notice on [SRC](https://www.speedrun.com/silksong) the leaderboard is sp
 ---
 
 ## Any% No Major Glitches
-There are a few different routes for any% NMG. The Main differences:
+There are a few different routes for any% NMG. The main differences:
 - Cloak / Cloakless
 - Bell route (Last Judge) / Mist route (Phantom)
 
@@ -59,7 +59,7 @@ Ran on Release Patch (1.0.28324)
  
 ---
 
-### The below cloak routes are run on later patches of the game, and get Drifters Cloak. The early game is the same up to Greymor, then you have two routes to get to the Citadel:
+### The below cloak routes are run on later patches of the game, and get Drifters Cloak. The early game is the same up to Greymoor, then you have two routes to get to the Citadel:
 
 ---
 
@@ -80,7 +80,7 @@ Typically ran on 1.0.29242 to take advantage of the nail upgrade cutscene skip, 
 
 ### Mist route (with cloak)
 Can be ran on any patch, but you may want to run on 1.0.28891 or lower to take advantage of mist juggling, or later patches to take advantage of the nail upgrade cutscene skip.
-- This was the original any% route when speedrunning first started; Multiple routes could be considered "The Mist route" as they go through Sinners Road for The Mist, and fight Phantom to enter act 2. Specifically, a mist route with cloak is slower than bells and has the difficulty of The Mist itself, which can be quite punishing and can lead to random time loss, but doesn't have any difficult skips. Picking up and using Barbed Bracelet is *potentially* faster for mist route, but is even more punishing, and is still estimated to be slower than bell route. This route is good, however, if you don't like doing the bells route skips, you particularly like The Mist/Phantom, or want to practice for a cloakless run.
+- This was the original any% route when speedrunning first started; multiple routes could be considered "The Mist route" as they go through Sinners Road for The Mist, and fight Phantom to enter act 2. Specifically, a mist route with cloak is slower than bells and has the difficulty of The Mist itself, which can be quite punishing and can lead to random time loss, but doesn't have any difficult skips. Picking up and using Barbed Bracelet is *potentially* faster for mist route, but is even more punishing, and is still estimated to be slower than bell route. This route is good, however, if you don't like doing the bells route skips, you particularly like The Mist/Phantom, or want to practice for a cloakless run.
 
 >[Cloak Mist route splits](https://hksplitmaker.com/?game=silksong&builtin=any-mist)  
 >[Cloak Mist route notes](https://docs.google.com/document/d/1OwFO5OSDMIZWn24Jm6f14QtfF7145Aom5T-exSffINI/edit?tab=t.0#heading=h.umnydksznp6v)  
@@ -92,7 +92,7 @@ Can be ran on any patch, but you may want to run on 1.0.28891 or lower to take a
 
 ## Any % All Glitches
 
-The All Glitches run has 2 main routes, one covered in the guide below (with a couple of diverging paths, in order to avoid particularly difficult sets of rooms), highly recommended for new runners; and another, which uses some movement from [Low % AG](/Routes/Low%25Routes.md#low--all-glitches) routing. Both are run on versions **1.0.28561**, **1.0.28650**, and **1.0.28714** of the game to take advantage of glitches such as :
+The All Glitches run has 2 main routes, one covered in the guide below (with a couple of diverging paths, in order to avoid particularly difficult sets of rooms), highly recommended for new runners; and another, which uses some movement from [Low % AG](/Routes/Low%25Routes.md#low--all-glitches) routing. Both are run on either version **1.0.28561**, **1.0.28650**, or **1.0.28714** of the game to take advantage of glitches such as :
 - [Main Menu Storage](/Glitches/MajorGlitches.md#main-menu-storage-mms) (AKA MMS)
 - (A LOT of) [Room Duping](/Glitches/MajorGlitches.md#room-duping)
 - [Noclip](/Glitches/MajorGlitches.md#room-duping)

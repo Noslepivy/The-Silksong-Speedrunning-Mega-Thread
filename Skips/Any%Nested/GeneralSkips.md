@@ -1,4 +1,4 @@
-[![Back Button](/Media/Icons/BackButton30px.png)](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/README.md)
+[![Back Button](/Media/Icons/BackButton30px.png)](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Skips/Any%25Skips.md)
 
 ---
 
@@ -10,4 +10,4 @@
 
 ---
 
-[![Back Button](/Media/Icons/BackButton30px.png)](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/README.md)
+[![Back Button](/Media/Icons/BackButton30px.png)](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Skips/Any%25Skips.md)
