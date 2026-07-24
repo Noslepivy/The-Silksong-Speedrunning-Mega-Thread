@@ -34,7 +34,9 @@ Terms will be sorted Alphabetically where possible.
 | Hardsave |  | When the game forces a save, and updates your latest spawn location replacing the last bench sat at. In Silksong, a few hardsaves known are binding a new ability, obtaining a new silk skill, undergoing an event such as the elevator crash, etc. |
 | HK  | Hollow Knight  | |
 | HKC  | Hollow Knight Community  | Can often refer to the HKC twitch and youtube channels. |
+| HKSM  | Hollow Knight Split Maker  | Website for creating and downloading livesplit files for HK and SS. |
 | IGT  | In-Game time  | The timer used in game for things like profile usage length, and the time after credits. A very unreliable timer. |
+| IL  | Individual level | Community-decided segments that a full speedrun route is broken into. |
 | LP  | Latest Patch or Later Patches  | Context dependent. |
 | LRT  | Load-Removed Time  | Your run time in livesplt with loads removed. Silksong's auto-splitter has a load remover component to help bridge the gap between good and bad hardware, where one person may have shorter load times than another. |
 | Misc Cat  | Miscellaneous (speedrunning) Category | A set of categories that don't fit on the main board, often with unique objectives (often not getting to the credits). |
