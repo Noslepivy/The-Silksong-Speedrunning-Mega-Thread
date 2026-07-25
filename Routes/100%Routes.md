@@ -44,7 +44,7 @@ These routes are ran on 1.0.28891 mainly to take advantage of [Voltvessel Pogos]
 - ### [THE Hundo Route](https://app.milanote.com/1WJd0Q1KzAYA4r/the-hundo-route?p=S3qQVRjwUiB)
 Ran on version 1.0.28891  
 A culmination of hundo routing experience from multiple runners, this is (as stated) THE best route for 100% currently. Also referred to as v7 or z7.
-> Route splits to be available soon on HKSM  
+> [THE Hundo route splits](https://hksplitmaker.com/?game=silksong&builtin=100-monstah-z7)  
 > [THE Hundo route Notes](https://app.milanote.com/1WJd0Q1KzAYA4r/the-hundo-route?p=S3qQVRjwUiB)  
 > Savestates coming soon  
 > Livesplit IL's coming soon
