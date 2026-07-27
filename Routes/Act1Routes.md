@@ -25,7 +25,7 @@ Judgement was a category originally created for an [SRC Sponsored Challenge](htt
 - ### Cloakless Flea
 Typically ran on 1.0.28714 or lower - To take advantage of a [Bind Dash Refresh](/Movement/GeneralMovement.md#bind-dash-refresh-minor-glitch) in blasted steps. However this can be ran on any patch, if you would like to forgo that specific skip.  
 
-The flea route for Judgement is quite unique, as it generally follows the same route as [Any%'s flea route](/Routes/Any%25Routes.md#flea-route), with the main exception of **NOT** getting the needle upgrade in Bellhart, immediately leaving Widow's boss arena from the top left instead of the right, and grabbing bells along the way.   
+The flea route for Judgement is quite unique, as it generally follows the same route as [Any%'s flea route](/Routes/Any%25Routes.md#flea-route), with the main exceptions of **NOT** getting the needle upgrade in Bellhart, immediately leaving Widow's boss arena from the top left instead of the right, and grabbing bells along the way.   
 
 >[Flea Route Splits](https://hksplitmaker.com/?game=silksong&builtin=act1-judgement-fleas)  
 >[Flea Route Savestates](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/releases/download/Downloads/Act1.Judgement.Flea.Savestates.zip) - May be partially outdated, but still work as intended  
