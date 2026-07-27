@@ -6,9 +6,9 @@
 
 A collection of skips and time saves relevant to Any% routes, separated by the route(s) they're used in.
 
-- ### Skips used by all routes
-- ### RP Key/Flea (Cloakless) exclusive
-- ### LP Bells/Mist (Cloak) exclusive
+- ### [Skips used by all routes](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Skips/Any%25Nested/GeneralSkips.md)
+- ### [RP Key/Flea (Cloakless) exclusive](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Skips/Any%25Nested/CloaklessSkips.md)
+- ### [LP Bells/Mist (Cloak) exclusive](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Skips/Any%25Nested/CloakfulSkips.md)
 
 ---
 
