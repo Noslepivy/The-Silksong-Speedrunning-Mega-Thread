@@ -5,12 +5,14 @@
 
 
 ## Skips and Time Saves used in Bells/Mist (Cloak) route
+Mist route shares the same strategies as Bells to get to Greymoor, but it heads left immediately to fight Moorwing, avoiding craw skip. It also deviates after Widow, where, instead of going to Blasted Steps, it returns to Greymoor and enters the mist through Sinner's Road. Skips/timesaves related to those can be found in the Cloakless skips section. 
 
 ### Act 1
 - Lace 1
 - Hoker strats
 - Fourth Chorus skip
 - Craw skip
+- Greymoor Arena
 - Moorwing
 - Gnat pogo
 - Shellwood arena
@@ -31,6 +33,8 @@
 >### Fourth Chorus skip
 
 >### Craw skip
+
+>### Greymoor arena
 
 >### Moorwing
 
