@@ -8,23 +8,25 @@
 Mist route shares the same strategies as Bells to get to Greymoor, but it heads left immediately to fight Moorwing, avoiding craw skip. It also deviates after Widow, where, instead of going to Blasted Steps, it returns to Greymoor and enters the mist through Sinner's Road. Skips/timesaves related to those can be found in the Cloakless skips section. 
 
 ### Act 1
-- Lace 1
+- Lace 1 strats
 - Hoker strats
 - Fourth Chorus skip
 - Craw skip
-- Greymoor Arena
+- Greymoor arena skip
+- Greymoor arena strats
 - Moorwing
-- Gnat pogo
-- Shellwood arena
-- Flower skip
+- Shellwood Gnat pogo
+- Shellwood arena strats
+- Flower elevator
+- Flower heal skip
 - Blasted Steps
   - Skip 1
   - Skip 2
-- Last Judge
+- Last Judge strats
 ### Act 2
-- Scales room
+- Right-side Scales room
 - Lava cycle room skip
-- Clawline room skip
+- Left-side Clawline skip
 
 >### Lace 1
 
@@ -34,15 +36,19 @@ Mist route shares the same strategies as Bells to get to Greymoor, but it heads 
 
 >### Craw skip
 
->### Greymoor arena
+>### Greymoor arena skip
+
+>### Greymoor arena strats
 
 >### Moorwing
 
->### Gnat pogo
+>### Shellwood Gnat pogo
 
->### Shellwood arena
+>### Shellwood arena strats
 
->### Flower skip
+>### Flower elevator
+
+>### Flower heal skip
 
 >### Blasted Steps
 >Skip 1
@@ -51,11 +57,11 @@ Mist route shares the same strategies as Bells to get to Greymoor, but it heads 
 
 >### Last Judge
 
->### Scales room
+>### Right-side Scales room
 
 >### Lava cycle room skip
 
->### Clawline room skip
+>### Left-side Clawline skip
 ---
 
 [![Back Button](/Media/Icons/BackButton30px.png)](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Skips/Any%25Skips.md)
