@@ -7,7 +7,7 @@
 ## Skips and Time Saves used by all Any% routes
 
 ### Act 1
-- Moss Mother
+- Moss Mother strats
 - Beastfly pogo
 - Archie pogo
 - Bell Beast phase skip
@@ -18,29 +18,29 @@
 - Garama skip
 - Bellvein wall breaking
 - Bellvein furm downdash
-- Widow
+- Widow strats
 - Widow bell SQ
 - Bellhart intro skip
 ### Act 2
 - Citadel spike wall pogos
 - Grand Reed pogodashes
-- Cogwork Dancers
-- Whispering Vaults Arena
-- Trobbio
+- Cogwork Dancers strats
+- Whispering Vaults Arena strats
+- Trobbio strats
 - Elevator room reload
-- Clawline arena
-- Box skip
+- Clawline arena strats
+- Whispering Vaults box skip
 - Cogwork Core climb
 - Architects' Melody puzzle
 - Cogwork Core drop
 - High Halls climb
 - God pixel
-- High Halls Arena
-- Lace 2
+- High Halls Arena strats
+- Lace 2 strats
 - Last Climb
-- Grand Mother Silk
+- Grand Mother Silk strats
 
->### Moss Mother
+>### Moss Mother strats
 
 >### Beastfly pogo
 
@@ -62,7 +62,7 @@
 
 >### Bellvein furm downdash
 
->### Widow
+>### Widow strats
 
 >### Widow bell SQ
 
@@ -72,17 +72,17 @@
 
 >### Grand Reed pogodashes
 
->### Cogwork Dancers
+>### Cogwork Dancers strats
 
->### Whispering Vaults arena
+>### Whispering Vaults arena strats
 
->### Trobbio
+>### Trobbio strats
 
 >### Elevator room reload
 
->### Clawline arena
+>### Clawline arena strats
 
->### Box skip
+>### Whispering Vaults box skip
 
 >### Cogwork Core climb
 
@@ -94,13 +94,13 @@
 
 >### God pixel
 
->### High Halls arena
+>### High Halls arena strats
 
->### Lace 2
+>### Lace 2 strats
 
 >### Last climb
 
->### Grand Mother Silk
+>### Grand Mother Silk strats
 ---
 
 [![Back Button](/Media/Icons/BackButton30px.png)](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Skips/Any%25Skips.md)
