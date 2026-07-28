@@ -10,12 +10,12 @@ The listed skips here are Key-only until Chalamet skip, as Flea and Key get to W
 ### Act 1
 - Boss slowdown menuing
 - Chest room
-- Bone Bottom elevator
-- Wormways
+- Bone Bottom elevator momentum stop
+- Wormways pogo's
 - Chalamet skip
 - Mist
-- Exhaust Organ steam cycle
-- Phantom
+- Exhaust Organ steam cycle DDG
+- Phantom strats
 ### Act 2
 - Cogwork Dancers climb
 - Underworks RP walljump
@@ -24,15 +24,15 @@ The listed skips here are Key-only until Chalamet skip, as Flea and Key get to W
 
 >### Chest room
 
->### Bone Bottom elevator
+>### Bone Bottom elevator momentum stop
 
->### Wormways
+>### Wormways pogo's
 
 >### Chalamet skip
 
 >### Mist
 
->### Exhaust Organ steam cycle
+>### Exhaust Organ steam cycle DDG
 
 >### Phantom
 
