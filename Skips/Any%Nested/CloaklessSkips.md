@@ -17,8 +17,27 @@
 - Phantom
 ### Act 2
 - Cogwork Dancers climb
-- Underworks walljump
+- Underworks RP walljump
 
+>### Boss slowdown menuing
+
+>### Chest room
+
+>### Bone Bottom elevator
+
+>### Wormways
+
+>### Chalamet skip
+
+>### Mist
+
+>### Exhaust Organ steam cycle
+
+>### Phantom
+
+>### Cogwork Dancers climb
+
+>### Underworks RP walljump
 
 ---
 
