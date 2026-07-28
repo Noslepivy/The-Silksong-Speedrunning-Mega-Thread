@@ -37,6 +37,8 @@
 - God pixel
 - High Halls Arena
 - Lace 2
+- Last Climb
+- Grand Mother Silk
 
 >### Moss Mother
 
@@ -95,6 +97,10 @@
 >### High Halls arena
 
 >### Lace 2
+
+>### Last climb
+
+>### Grand Mother Silk
 ---
 
 [![Back Button](/Media/Icons/BackButton30px.png)](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/Skips/Any%25Skips.md)
