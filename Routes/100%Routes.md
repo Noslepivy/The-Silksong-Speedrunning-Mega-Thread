@@ -51,7 +51,7 @@ A culmination of hundo routing experience from multiple runners, this is (as sta
 
 - ### [zRoute](https://app.milanote.com/1WveEr1gD7FZ4H/100-mist-route-891?p=lxGFEERn8Hw)
 Ran on 1.0.28891  
-Created by Zodiam as an optimised route to rival Monstah's v6.2 route at the time, by using the [Mist](/GameMechanics/TheMist.md) instead of bell route in Act 1, got [crafting kits](https://hollowknight.wiki/w/Tool_Pouch_%26_Crafting_Kit#Crafting_Kit) earlier, some slight rosary rerouting, avoided getting [Thread Storm](https://hollowknight.wiki/w/Thread_Storm) until later on, among many other things.
+Created by Zodiam as an optimised route to rival Monstah's v6.2 route at the time by using the [Mist](/GameMechanics/TheMist.md) instead of bell route in Act 1, getting [crafting kits](https://hollowknight.wiki/w/Tool_Pouch_%26_Crafting_Kit#Crafting_Kit) earlier, slightly rerouting some rosaries, and avoiding getting [Thread Storm](https://hollowknight.wiki/w/Thread_Storm) until later on, among many other things.
 >[zRoute Splits](https://hksplitmaker.com/?game=silksong&builtin=100-zroute-891)  
 >[zRoute Notes](https://app.milanote.com/1WveEr1gD7FZ4H/100-mist-route-891?p=lxGFEERn8Hw)  
 >[Savestates](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/releases/download/Downloads/100.zRoute.Savestates.zip)  
@@ -59,7 +59,7 @@ Created by Zodiam as an optimised route to rival Monstah's v6.2 route at the tim
 
 - ### [Monstah's v6.2](https://app.milanote.com/1Wu0KL12QxHseO/route-v62?p=4KWVkAUB4ds)
 Ran on 1.0.28891  
-MonStahLer's routes speak for themselves given his experience in running, and revising the route to where it stands, even going on to work on v7 (which turned into the above "THE hundo route"). There's far too much to cover, but you can see Monstah's [older revisions below](#monstahs-milanote-route-collection), with splits on [HKSM](https://hksplitmaker.com/?game=silksong).
+MonStahLer's routes speak for themselves given his experience in running. He revised the route to where it stands now and went on to work on v7 (which turned into the above "THE hundo route"). There's far too much to cover, but you can see Monstah's [older revisions below](#monstahs-milanote-route-collection), with splits on [HKSM](https://hksplitmaker.com/?game=silksong).
 
 >[v6.2 Splits](https://hksplitmaker.com/?game=silksong&builtin=100-monstah-62)  
 >[v6.2 Notes](https://app.milanote.com/1Wu0KL12QxHseO/route-v62?p=4KWVkAUB4ds)  
@@ -71,7 +71,7 @@ MonStahLer's routes speak for themselves given his experience in running, and re
 ## LP Routes
 
 - ### [THE Hundo Route LP Edition](https://pastebin.com/QFTZCNCw)
-As the name suggests, this is a route written up by BlakWolf following as closely as possible to THE hundo route above, modified slightly for LP routing, removing [Voltvessel Pogo's](/Tech/MovementTech.md#voltvessel-pogos) etc.
+As the name suggests, this is a route written up by BlakWolf following THE hundo route above as closely as possible while modifying it slightly for LP, removing [Voltvessel Pogos](/Tech/MovementTech.md#voltvessel-pogos), etc.
 >[LP v7 Splits](https://hksplitmaker.com/?game=silksong&builtin=100-lp-z7)  
 >[LP v7 Notes](https://pastebin.com/QFTZCNCw)
 
