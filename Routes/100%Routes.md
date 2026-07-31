@@ -71,7 +71,7 @@ MonStahLer's routes speak for themselves given his experience in running. He rev
 ## LP Routes
 
 - ### [THE Hundo Route LP Edition](https://pastebin.com/QFTZCNCw)
-As the name suggests, this is a route written up by BlakWolf following THE hundo route above as closely as possible while modifying it slightly for LP, removing [Voltvessel Pogo's](/Tech/MovementTech.md#voltvessel-pogos) etc.
+As the name suggests, this is a route written up by BlakWolf following THE hundo route above as closely as possible while modifying it slightly for LP, removing [Voltvessel Pogos](/Tech/MovementTech.md#voltvessel-pogos) etc.
 >[LP v7 Splits](https://hksplitmaker.com/?game=silksong&builtin=100-lp-z7)  
 >[LP v7 Notes](https://pastebin.com/QFTZCNCw)
 
