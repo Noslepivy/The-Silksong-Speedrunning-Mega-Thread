@@ -51,7 +51,7 @@ A culmination of hundo routing experience from multiple runners, this is (as sta
 
 - ### [zRoute](https://app.milanote.com/1WveEr1gD7FZ4H/100-mist-route-891?p=lxGFEERn8Hw)
 Ran on 1.0.28891  
-Created by Zodiam as an optimized route to rival Monstah's v6.2 route at the time by using the [Mist](/GameMechanics/TheMist.md) instead of bell route in Act 1, getting [crafting kits](https://hollowknight.wiki/w/Tool_Pouch_%26_Crafting_Kit#Crafting_Kit) earlier, slightly rerouting some rosaries, and avoiding getting [Thread Storm](https://hollowknight.wiki/w/Thread_Storm) until later on, among many other things.
+Created by Zodiam as an optimised route to rival Monstah's v6.2 route at the time by using the [Mist](/GameMechanics/TheMist.md) instead of bell route in Act 1, getting [crafting kits](https://hollowknight.wiki/w/Tool_Pouch_%26_Crafting_Kit#Crafting_Kit) earlier, slightly rerouting some rosaries, and avoiding getting [Thread Storm](https://hollowknight.wiki/w/Thread_Storm) until later on, among many other things.
 >[zRoute Splits](https://hksplitmaker.com/?game=silksong&builtin=100-zroute-891)  
 >[zRoute Notes](https://app.milanote.com/1WveEr1gD7FZ4H/100-mist-route-891?p=lxGFEERn8Hw)  
 >[Savestates](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/releases/download/Downloads/100.zRoute.Savestates.zip)  
