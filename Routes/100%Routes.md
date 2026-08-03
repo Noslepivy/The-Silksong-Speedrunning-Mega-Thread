@@ -110,7 +110,7 @@ Splits for each of these are available on [HKSM](https://hksplitmaker.com/?game=
 - A discussion thread, for the above COMSOB sheet, that can be found within the discord.
 
 ### Miscellaneous Resources
-- [Silksong Routing Information by Blobdoodles](https://app.milanote.com/1VS8QE1c2ZeTa3/silksong-routing-information?p=glTKQmn71FQ)
+- [Silksong Routing Information by blob_by_](https://app.milanote.com/1VS8QE1c2ZeTa3/silksong-routing-information?p=glTKQmn71FQ)
 - [The Boss Doc](https://docs.google.com/spreadsheets/d/1uW5CESg2DsfiRT_VTI3yY0Ytk6i6zIKNWMmbnPV3ocU/edit?gid=0#gid=0) - damage, scaling, and requirements sheet
 - [The gamer rosary routing list](https://docs.google.com/document/d/1O0hyBznnJWHs9pQeg5PybmO63hxxtpPv0yinyjKDH-I/edit?tab=t.0#heading=h.6atwhjb03ybw) - A list of all in game rosary sources
 - [LostWisps Tool Damage Table](https://docs.google.com/spreadsheets/d/1LaGXLA1kdIpHsCfue_wJVS5VYDz6uHP-qQ4W5cGwQiQ/edit?gid=917293540#gid=917293540)

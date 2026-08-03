@@ -107,5 +107,5 @@ I apologise if i  miss anyone, keeping track of this is harder than I thought!
 - [BlakWolf](https://www.twitch.tv/blakwolf_)
 - [tRavage](https://www.twitch.tv/travage_)
 - [HollowLeti](https://www.youtube.com/@Indiesfureva/videos)
-- [Blobdoodles](https://www.twitch.tv/blob_by_)
+- [blob_by_](https://www.twitch.tv/blob_by_)
 - [maybeSilver](https://github.com/maybe-Silver)
