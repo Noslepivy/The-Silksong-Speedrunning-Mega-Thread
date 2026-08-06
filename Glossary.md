@@ -40,7 +40,7 @@ Terms will be sorted Alphabetically where possible.
 | LP  | Latest Patch or Later Patches  | Context dependent. |
 | LRT  | Load-Removed Time  | Your run time in livesplt with loads removed. Silksong's auto-splitter has a load remover component to help bridge the gap between good and bad hardware, where one person may have shorter load times than another. |
 | Misc Cat  | Miscellaneous (speedrunning) Category | A set of categories that don't fit on the main board, often with unique objectives (often not getting to the credits). |
-| NDLG  | No Load Dependent Glitches | |
+| NLDG  | No Load Dependent Glitches | |
 | NMG  | No Major Glitches  | A category that disallows using a set of glitches, often voted on by the community, that are considered "major". |
 | PB  | Personal Best  | The fastest a runner has completed a run. |
 | ROOMSOB  | Room Sum of Best  | A table of the fastest room times's the community has gotten. |
