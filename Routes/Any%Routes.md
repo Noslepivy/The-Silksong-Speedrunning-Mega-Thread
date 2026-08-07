@@ -37,7 +37,7 @@ Ran on Release Patch (1.0.28324)
 - Key route is fastest of all any% NMG routes (~90-120 seconds faster than LP bell route as reference), gets 500 rosaries during the movement to and from bell beast, to buy a simple key in Bone Bottom, then goes through Wormways to get to Shellwood.
 
 >[Key route splits](https://hksplitmaker.com/?game=silksong&builtin=any-key)  
->[Key route notes](https://docs.google.com/document/d/1rtaFWnCfjKbjCHEoIUKIjb5ehHPDT9IoKQPqUhGk50I/edit?usp=sharing)  
+>[Key route notes](https://docs.google.com/document/d/1rtaFWnCfjKbjCHEoIUKIjb5ehHPDT9IoKQPqUhGk50I)  
 > [WIP Key Route video guide](https://youtube.com/playlist?list=PLbGTRZs5uags) - As this guide isn't finished yet, watching the top runs on [SRC](https://www.speedrun.com/silksong?h=any-no-major-glitches-release-patch&x=zd39j4nd-ylq4yvzn.qzne828q-rn1kmmvl.10vzvmol) can also help a lot with understanding the route.  
 >[Key route Savestate pack](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/releases/download/Downloads/Any.Key.route.Savestates.zip)  
 >[Key Route Livesplit IL's](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/releases/download/Downloads/Any.Key.Route.Livesplit.IL.s.zip)  
