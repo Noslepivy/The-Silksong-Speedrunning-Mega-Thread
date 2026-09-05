@@ -27,7 +27,7 @@ Terms will be sorted Alphabetically where possible.
 | ------------- | ------------- | ------------- |
 | AutoSplitter |  | A livesplit component, that automatically moves to your next split, when certain goals are reached / tasks are performed. |
 | BPT  | | Best Possible Time  | A livesplit component often used to show (roughly) the best time a runner can achieve on their current pace, assuming they hit their golds. |
-| Buffering |  | A quality of life feature implemented in many games. An input is buffered when the button for a second action is pressed before the player has finished their first action/animation, causing the second action to come out on the first possible frame after the action/animation finishes. | 
+| Buffering |  | A quality of life feature implemented in many games. An input is buffered when the button for a second action is pressed before the player has finished their first action/animation, causing the second action to come out on the first possible frame it can. | 
 | Cat  | Speedrun category  | |
 | COMSOB  | Community Sum of Best  | A table of the fastest Gold's the community has gotten. |
 | Downpatch / Downpatching | | Reverting your game to an onlder version, usually to gain access to removed tricks and glitches. |
