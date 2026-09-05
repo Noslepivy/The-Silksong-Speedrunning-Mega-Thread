@@ -65,7 +65,7 @@ A collection of unique combat tech used anywhere and everywhere.
 >![Wall cancel spear](/Media/Gifs/Combat%20Tech/wall-cancel-spear.gif)
 
 >### Dash attack spear
->By [buffering](/Glossary.md#general-speedrunning-terms) a spear input out of a dash attack, you can skip some of the animation of spearing, perfect for combat everywhere.  
+>By [buffering](/Glossary.md#general-speedrunning-terms-1) a spear input out of a dash attack, you can skip some of the animation of spearing, perfect for combat everywhere.  
 > This one can be difficult, as you need to have good spacing to the enemy you want to hit. Too close and you get sent flying upwards, too far away and your attack misses completely.  
 >Additionally people have said going neutral (not using any movement inputs) helps to get this trick more consistent, as well as spamming the spear input repeatedly, rather than only pressing it once.  
 >![Dash attack spear](/Media/Gifs/Combat%20Tech/dash-attack-spear.gif)
