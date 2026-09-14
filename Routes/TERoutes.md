@@ -28,7 +28,7 @@ It is ran on version 1.0.28891, mainly to take advantage of [Voltvessel Pogos](/
 >You can learn how to downpatch your game with [this video guide](https://www.youtube.com/watch?v=0Dywy01mkcY&list=PLA1yO3IrXAJg&index=4) or [this text guide](https://www.speedrun.com/silksong/guides/6puuo).
 
 >[TE 891 Route Splits here](https://hksplitmaker.com/?game=silksong&builtin=te-891)  
->[TE 891 Notes here](https://app.milanote.com/1WbFcm1cdcT3dK/silksong-true-ending-patch-1028891?p=Ug6mw9f6KRi)  
+>[TE 891 Notes here](https://app.milanote.com/1X4gnD1wu2Ks9O/silksong-true-ending-patch-1028891?p=Ug6mw9f6KRi)  
 >[TE 891 Savestate pack](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/releases/download/Downloads/TE.891.Savestates.zip)  
 >[TE 891 Livesplit IL's](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/releases/download/Downloads/TE.891.Livesplit.IL.s.rar)  
 >No current guide, however the notes are very extensive, and you can always watch runs on [SRC](https://www.speedrun.com/silksong?h=true-ending-no-major-glitches&x=n2y0m18d-dloed1dn.qyzod221)  
