@@ -42,6 +42,10 @@
 >![Emma Binds keyboard](/Media/Screenshots/Keybinds/Emma%20binds%20keyboard.png)  
 >![Emma Binds](/Media/Screenshots/Keybinds/Emma%20binds.png)
 
+>### AlexKnauth's Binds
+>![AlexKnauth Binds keyboard](/Media/Screenshots/Keybinds/AlexKnauth%20binds%20keyboard.png)  
+>![AlexKnauth Binds](/Media/Screenshots/Keybinds/AlexKnauth%20binds.jpg)
+
 ---
 
 [![Back Button](/Media/Icons/BackButton30px.png)](https://github.com/Noslepivy/The-Silksong-Speedrunning-Mega-Thread/blob/main/README.md)
