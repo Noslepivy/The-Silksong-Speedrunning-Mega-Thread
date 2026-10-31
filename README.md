@@ -98,7 +98,7 @@ I apologise if i  miss anyone, keeping track of this is harder than I thought!
 - [IDAX](https://space.bilibili.com/24240097)
 - [OxBox](https://www.youtube.com/@oxboxrox)
 - [MonStahLer](https://www.youtube.com/@MonStahLer)
-- [Taiga](https://www.youtube.com/@TaigaSPYT)
+- Taiga
 - [Popless Rebel](https://www.twitch.tv/poplessrebel)
 - [Zodiam](https://www.twitch.tv/zodiam_)
 - [Rilesey](https://www.twitch.tv/rilesey)
